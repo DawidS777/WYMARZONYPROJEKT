@@ -1,0 +1,54 @@
+                                                                              Fix It!
+Redukcja Odpadów Poprzez Naprawy 
+
+Fit It! Let’ make less waste
+
+Cel prezentacji
+Celem prezentacji jest przedstawienie narzędzia AI o nazwie Fix It!, które ma na celu diagnozowanie usterek sprzętów RTV i AGD oraz sugerowanie napraw, zmierzając do zmniejszenia ilości odpadów elektronicznych. Chcemy informować naszych odbiorców o możliwościach naprawy sprzętu we własnym zakresie, zachęcać do podejmowania działań proekologicznych i inspirować do redukcji odpadów.
+
+
+Zarys problemu
+Elektrośmieci stały się globalnym problemem ekologicznym. Według raportu Global E-waste Monitor 2020, wyprodukowaliśmy ponad 53 miliony ton elektrośmieci w 2019 roku. Prognozuje się, że do 2030 roku ilość ta wzrośnie o 38%, osiągając ponad 74 miliony ton rocznie. Jednak tylko około 17% elektrośmieci zostało odpowiednio zebranych i przetworzonych w sposób zgodny z zasadami ochrony środowiska i bezpieczeństwa. To zjawisko wymaga pilnych działań na rzecz redukcji, ponownego wykorzystania i recyklingu elektrośmieci,aby zmniejszyć negatywny wpływ na nasze środowisko.
+
+
+Co możemy zrobić?
+Fix It! to narzędzie, które pomaga naprawiać sprzęt domowy, takie jak telewizory, lodówki czy pralki, gdy przestają działać poprawnie. W skrócie, oto jak działa i jakie ma zalety:
+
+
+                  Funkcje
+Diagnoza usterek: Fix It! analizuje problemy z urządzeniami i mówi nam, co może być źródłem problemu. Na przykład, jeśli telewizor nie działa, Fix It! pomoże nam dowiedzieć się, czy problem wynika z uszkodzenia zasilania czy może z płyty głównej. 
+Sugestie naprawy: Gdy Fix It! zdiagnozuje problem, sugeruje ono, jak go naprawić. Może to być prosta instrukcja krok po kroku, jak wymienić uszkodzoną część, lub sugestia wywołania fachowca, jeśli naprawa wymaga specjalistycznej wiedzy. 
+
+
+Kalkulator kosztów: Fix It! pomaga również oszacować koszty naprawy. Daje nam informację, ile będzie kosztować naprawa sprzętu we własnym zakresie w porównaniu z zakupem nowego urządzenia. Fix it! dostosowuje naprawy ze względu na lokalizację oraz charakterystyczne zmienne techniczne takie jak, jednostka natężenia prądu, czy też zastosowanie innych technicznych aspektów takich jak wtyczek.
+
+Ekologiczne korzyści dla świata
+Mniejsze odpady elektroniczne: Naprawianie i wydłużanie życia użytkowego urządzeń redukuje ilość odpadów elektronicznych, które trafiają na wysypiska.
+Ochrona środowiska: Dzięki naprawom zamiast wymianie sprzętu, ograniczamy zużycie surowców naturalnych i emisję zanieczyszczeń związanych z produkcją nowych urządzeń. W ten sposób, Fix It! nie tylko pomaga nam oszczędzać pieniądze, ale także dba o nasze środowisko, zmniejszając ilość odpadów elektronicznych.
+
+Ekonomiczne korzyści dla użytkownika
+Oszczędność pieniędzy: Naprawa sprzętu z pomocą Fix It! może być znacznie tańsza niż zakup nowego. Dzięki temu oszczędzamy pieniądze. 
+Długoletnia wydajność sprzętu: Naprawa urządzeń pozwala im służyć nam dłużej, co oznacza, że nie musimy tak często kupować nowych, co również przyczynia się do oszczędności.
+
+
+Struktura działania Modelu 1
+Analiza danych wejściowych: Fix It! gromadzi informacje o problemie zgłoszonym przez użytkownika, takie jak objawy awarii i zachowanie sprzętu. Następnie wykorzystuje te dane jako dane wejściowe do algorytmów.
+
+Modelowanie usterek: Algorytmy Fix It! wykorzystują modele uczenia maszynowego, które zostały wytrenowane na dużych zbiorach danych dotyczących różnych usterek sprzętu. Te modele są w stanie rozpoznawać charakterystyczne wzorce i objawy problemów, co umożliwia im identyfikację potencjalnych źródeł awarii.
+
+Weryfikacja wiedzy bazy danych: Fix It! korzysta z bazy danych zawierającej informacje na temat częstych usterek i metod naprawy dla różnych typów sprzętu. Algorytmy porównują diagnozę uzyskaną na podstawie danych wejściowych z wiedzą zawartą w bazie danych, aby potwierdzić lub poprawić diagnozę.
+
+
+
+
+Struktura działania Modelu 2
+Generowanie sugestii naprawy: Na podstawie diagnozy algorytmy Fix It! generują sugestie dotyczące naprawy. Mogą to być proste instrukcje krok po kroku, jak wymienić uszkodzoną część, lub bardziej zaawansowane zalecenia, takie jak skontaktowanie się z fachowcem.
+
+Optymalizacja kosztów: Algorytmy Fix It! również biorą pod uwagę koszty związane z różnymi metodami naprawy. Na podstawie diagnozy i sugerowanej naprawy obliczają koszty naprawy w porównaniu z kosztami zakupu nowego urządzenia, co umożliwia użytkownikom podjęcie informowanych decyzji finansowych.
+
+Aplikacja oparta jest na webowym interfejsie, bez żadnych instalacji. Wykorzystując darmową bazę danych MySQL. Daje to możliwość wykorzystywania jej bez dodatkowych kosztów.
+
+Podsumowanie
+Fix It! to innowacyjne narzędzie AI, które nie tylko pomaga diagnozować i naprawiać usterki w sprzęcie RTV i AGD, ale także działa na rzecz ochrony środowiska poprzez redukcję ilości odpadów elektronicznych. Dzięki funkcjom diagnozowania usterek, sugestii naprawy i kalkulatorowi kosztów, Fix It! umożliwia użytkownikom skuteczne i ekonomiczne rozwiązania naprawcze. Korzystanie z Fix It! nie tylko przynosi użytkownikom oszczędności finansowe poprzez unikanie zakupu nowego sprzętu, ale również przyczynia się do zmniejszenia ilości odpadów elektronicznych, co ma istotny wpływ na ochronę naszego środowiska. Dzięki naszemu motto Fit It! Let's make less waste! zachęcamy użytkowników do podejmowania działań proekologicznych i zmniejszania negatywnego wpływu na nasz świat poprzez ekologiczne naprawy sprzętu.
+Dziękujemy za uwagę,
+Zespół Fix It! - Mateusz Łata, Dawid Sadowski, Michał Matuszczak
